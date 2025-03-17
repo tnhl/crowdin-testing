@@ -1,15 +1,15 @@
 {
   "RootLayout": {
-    "home_link": "Home",
-    "about_link": "About",
-    "counter_link": "Counter",
-    "portfolio_link": "Portfolio",
+    "home_link": "Trang chủ",
+    "about_link": "Về chúng tôi",
+    "counter_link": "Bộ đếm",
+    "portfolio_link": "Thong tin cá nhân",
     "sign_in_link": "Sign in",
     "sign_up_link": "Sign up"
   },
   "BaseTemplate": {
     "description": "Starter code for your Nextjs Boilerplate with Tailwind CSS",
-    "made_with": "Made with <author></author>."
+    "made_with": "Được tạo bởi.<author></author>."
   },
   "Index": {
     "meta_title": "Next.js Boilerplate Presentation",
