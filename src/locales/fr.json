@@ -71,5 +71,10 @@
     "dashboard_link": "Tableau de bord",
     "user_profile_link": "Gérer votre compte",
     "sign_out": "Se déconnecter"
+  },
+  "1234": {
+    "test": {
+      "header": "1234"
+    }
   }
 }
