@@ -17,7 +17,7 @@
     "sponsors_title": "Sponsors"
   },
   "Counter": {
-    "meta_title": "Counter",
+    "meta_title": "Bộ đếm",
     "meta_description": "An example of DB operation",
     "loading_counter": "Loading counter...",
     "security_powered_by": "Security, bot detection and rate limiting powered by"
@@ -28,7 +28,7 @@
     "button_increment": "Increment"
   },
   "CurrentCount": {
-    "count": "Count: {count}"
+    "count": "Đếm {count}"
   },
   "About": {
     "meta_title": "About",
@@ -71,5 +71,10 @@
     "dashboard_link": "Dashboard",
     "user_profile_link": "Manage your account",
     "sign_out": "Sign out"
+  },
+  "1234": {
+    "test": {
+      "header": "1234"
+    }
   }
 }
